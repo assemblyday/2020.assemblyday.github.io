@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Because assembly matters, even in 2020!
+Because <a href="https://en.wikipedia.org/wiki/Assembly_language">assembly</a> matters, even in 2020!
 
 ### Contact me
 
