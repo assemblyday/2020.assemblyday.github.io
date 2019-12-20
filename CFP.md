@@ -32,6 +32,6 @@ Submission will consist of:
 * your bio (~100words)
 * eventual previous presentation
 
-Submit your proposal to [guly+assemblyday@guly.org](mailto:guly+assemblyday@guly.org) 
+Submit your proposal to [guly+assemblyday2020@guly.org](mailto:guly+assemblyday2020@guly.org) 
 
 Deadline is TBD because we don't have a date for the con itself ;)
