@@ -17,7 +17,7 @@ Hands-on and real demo is appreciated.
 
 Given this will be the first edition of this con, we expect mostly
 italian people but we require your slide to be in english to achieve a
-wider crowd.  
+wider crowd after the event.  
 We may ask you to give the talk in english if we will be able to reach
 foreign people.
 
@@ -34,4 +34,4 @@ Submission will consist of:
 
 Submit your proposal to [guly+assemblyday@guly.org](mailto:guly+assemblyday@guly.org) 
 
-Submission deadline is TBD because we don't have a date for the con itself ;)
+Deadline is TBD because we don't have a date for the con itself ;)
