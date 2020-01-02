@@ -1,4 +1,4 @@
-### TODO list Assembly Day 2020
+### TODO list for Assembly Day 2020
 
 - [x] have a logo - thanks to 0xb4db01
 - [ ] fix a date
